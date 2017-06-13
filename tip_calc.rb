@@ -11,3 +11,4 @@ total = bill + tip_amount
 total = '%.2f' % total
 
 puts "The total is $#{total}"
+ #hello
